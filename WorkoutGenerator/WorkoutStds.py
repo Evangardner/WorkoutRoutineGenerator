@@ -68,3 +68,4 @@ def printRatios(averages):
     print"Bench Ratio:", toRank(averages[0])
     print"Squat Ratio:", toRank(averages[1])
     print"Deadlift Ratio:",toRank(averages[2])
+printRatios(compareAverages(200,200,200,200))

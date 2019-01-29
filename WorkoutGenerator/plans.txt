@@ -1,5 +1,5 @@
 1. make GUI communicate with workoutStds.py
-2. Generate save files and logins
+2. Generate save files
 3. rank specific muscle groups based on exercises
-4. make a calender with program of exercises
-5. save program to .csv file
+*4. make a calender with program of exercises
+*5. make an algorithm to determine days of the week based off date
